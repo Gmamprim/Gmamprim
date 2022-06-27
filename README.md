@@ -1,10 +1,12 @@
 ### Olá, sou o Gabriel Mamprim!✨🔥❄️👋
 
 
-- 🔭 Hoje estudo Tecnologia no geral ! focado em banco de dados e linguagens de programação no geral
-- 🌱 Estou estudando banco de dados e linguagens de programação no geral como JS, HTML, CSS, PHP, JAVA, VB6...
+- 🔭 Hoje estudo Tecnologia na FIAP SP! focado em banco de dados e linguagens de programação.
+- 🌱 Estou estudando banco de dados e linguagens de programação, participei de workshop hands-on full stack durante uma semana em periodo integral e presencial,  
+      trabalhando com JS, HTML, CSS, PHP, JAVA, VB, Crystal...
+- Completando meus estudos com cursos técnicos nas mesmas linguagens e plataformas.
+
 - 📫 gabriel_mamprim@hotmail.com
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/Gmamprim">
